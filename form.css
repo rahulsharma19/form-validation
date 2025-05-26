@@ -1,0 +1,38 @@
+ h1{
+    font-size: 20px;
+    font-style: italic;
+    color:green;
+    text-align: center;
+}
+table{
+    font-size: 20px;
+    font-style: italic;
+    color:green;
+}
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 30px;
+}
+input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 30px;
+}
+#errormsg{
+    font-size: 15px;
+    color:red;
+    text-align: center;
+}
+#successmsg{
+    font-size: 20px;
+    color:green;
+    text-align: center;
+}
+span{
+    color:red;
+}
